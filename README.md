@@ -11,7 +11,7 @@ Virtual memory & paging.
 
 ## Assignment
 
-- Slide: [here]() (ECCS email required) 
+- Slide: [here](https://docs.google.com/presentation/d/1Cy1Mi4yuCvqTsXoebHfvUtodkpec-FpgWCZGKoINhNI/edit?usp=sharing) (ECCS email required) 
 - Date assigned: ***2023/06/26***
 - Date due: ***2023/07/10 23:59*** (tentative)
 
